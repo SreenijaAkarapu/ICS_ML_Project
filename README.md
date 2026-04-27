@@ -53,7 +53,6 @@ ICS_ML_Project/
 │   ├── svm/
 │   ├── nb/
 │   ├── comparison/
-│── paper/            # Research paper
 │── README.md
 ```
 
