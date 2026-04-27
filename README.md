@@ -128,8 +128,7 @@ The dataset used in this project was obtained from an online source.
 
 ## 👤 Author
 
-Sreenija Akarapu
-Anika Thukuntla
+Sreenija Akarapu | Anika Thukuntla
 ---
 
 ## ⭐ If you found this useful
